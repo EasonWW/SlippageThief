@@ -1,0 +1,13 @@
+{
+  "name": "helloeth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.0.3",
+    "abi-decoder": "^2.4.0",
+    "bignumber.js": "^9.0.1",
+    "etherscan-api": "^10.0.5",
+    "lodash": "^4.17.21"
+  }
+}
